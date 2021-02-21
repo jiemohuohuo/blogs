@@ -9,8 +9,9 @@
 
 ## leetcode
 <details><summary>初级算法</summary>
+  
 - [删除排序数组中的重复项](https://github.com/yasume/blogs/issues/1) --2022-02-19
-</details>
 
+</details>
 
 
